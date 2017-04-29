@@ -1,10 +1,12 @@
 # loc8r
 
-Capítulo 04:
-Construindo um site estático com Node.js e Express
+Capítulo 05:
+Construindo um modelo de dados com MongoDB e Mongoose
 
-- Prototipar a aplicação por meio de uma versão estática.
-- Definir rotas para URLs da aplicação.
-- Criar visões no Express usando Jade e Bootstrap.
-- Usar controladores no Express para associar rotas a visões
-- Passar dados dos controladores para as visões
+- Usar o Mongoose para conectar uma aplicação em Express a um banco de dados em MongoDB;
+- Aplicar boas práticas para administrar conexões via Mongoose;
+- Modelar dados usando schemas no Mongoose;
+- Compilar schemas para criar modelos;
+- Usar o shell do MongoDB para manipular o banco de dados diretamente;
+- Enviar o banco de dados para um servidor remoto de produção (via URI);
+- Conectar a bancos de dados diferentes em ambientes diferentes.
